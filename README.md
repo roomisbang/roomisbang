@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roomisbang
 - 👀 I’m interested in football & listening music
-- 🌱 I’m currently learning Python & C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python & C & JAVA
+- 💞️ My main Language is Python & C
 - 📫 How to reach me -> bangij0127@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
